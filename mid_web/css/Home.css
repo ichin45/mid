@@ -1,0 +1,166 @@
+/* Home */
+
+@font-face {
+    font-family: SweiGothicCJKtc-Medium;
+    src: url(https://cdn.jsdelivr.net/gh/max32002/swei-gothic@2.129/WebFont/CJK%20TC/SweiGothicCJKtc-Medium.woff2) format("woff2")
+    , url(https://cdn.jsdelivr.net/gh/max32002/swei-gothic@2.129/WebFont/CJK%20TC/SweiGothicCJKtc-Medium.woff) format("woff");
+  }
+
+html,body{
+    background-color: #fffff0;
+    width: 1920px;
+    height: 3515px;
+    padding: auto;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: SweiGothicCJKtc-Medium;
+}
+
+/*
+.container{
+    width: 1920px;
+    height: 3515px;
+    background-color: #fffff0;
+}*/
+
+.cover{
+    position: absolute;
+    width: 1920px;
+    height: 1043.15px;
+    top: 0px;
+}
+
+.logobox{
+    position: absolute;
+    width: 1024px;
+    height: 136px;
+}
+
+.logo{
+    position: absolute;
+    width: 287.51px;
+    height: 261.36px;
+    left: 816px;
+    top: 1190px;
+}
+
+.text_00{
+    position: absolute;
+    width: 2000px;
+    height: 136px;
+    left: 448px;
+    top: 1525px;
+    /*font-family: Arial;
+    font-weight: 900;*/
+    font-size: 30px;
+    line-height: 55px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.275em;
+    color: #3c6432;
+}
+
+.introduction{
+    position: absolute;
+    width: 1920px;
+    height: 1031.66px;
+    top: 1800px;
+}
+
+.products{
+    position: absolute;
+    width: 353px;
+    height: 80px;
+    left: 100px;
+    top: 1901px;
+}
+.products_text{
+    position: absolute;
+    width: 317px;
+    height: 129px;
+}
+
+.text_01{
+    position: absolute;
+    width: 750px;
+    height: 137.5px;
+    left: 130px;
+    top: 1990px;
+    /*font-family: Arial;
+    font-weight: 900;*/
+    font-size: 20px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.275em;
+    color: #fffff0
+}
+
+.news{
+    position: absolute;
+    width: 353.38px;
+    height: 79.58px;
+    left: 531px;
+    top: 2468px;
+}
+
+.news_text{
+    position: absolute;
+    width: 353.38px;
+    height: 79.58px;
+}
+
+.text_02{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 555px;
+    top: 2595px;
+    /*font-family: Arial;
+    font-weight: 900;*/
+    font-size: 20px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.275em;
+    color: #fffff0
+}
+
+.vip{
+    position: absolute;
+    width: 353.38px;
+    height: 79.58px;
+    left: 1491px;
+    top: 2468px;
+}
+
+.vip_text{
+    position: absolute;
+    width: 353.38px;
+    height: 79.58px;
+}
+.text_03{
+    position: absolute;
+    width: 350px;
+    height: 93px;
+    left: 1512px;
+    top: 2595px;
+    /*font-family: Arial;
+    font-weight: 900;*/
+    font-size: 20px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.275em;
+    color: #fffff0;
+}
+
+.footer{
+    position: absolute;
+    width: 1920px;
+    height: 452.7px;
+    top: 3070px;
+}

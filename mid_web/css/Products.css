@@ -1,0 +1,140 @@
+/* Products */
+
+@font-face {
+    font-family: SweiGothicCJKtc-Medium;
+    src: url(https://cdn.jsdelivr.net/gh/max32002/swei-gothic@2.129/WebFont/CJK%20TC/SweiGothicCJKtc-Medium.woff2) format("woff2")
+    , url(https://cdn.jsdelivr.net/gh/max32002/swei-gothic@2.129/WebFont/CJK%20TC/SweiGothicCJKtc-Medium.woff) format("woff");
+  }
+
+html,body{
+    background-color: #fffff0;
+    width: 1920px;
+    height: 3515px;
+    padding: auto;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: SweiGothicCJKtc-Medium;
+}
+
+
+.container{
+    width: 1920px;
+    /* height: 3515px; */
+    background-color: #fffff0;
+}
+
+.header{
+    position: absolute;
+    width: 1920px;
+    height: 85.039px;
+    top: 37px;
+}
+
+.top_box{
+    position: absolute;
+    width: 1920px;
+    height: 85.04px;
+}
+
+#logo{
+    position: absolute;
+    width: 511.44px;
+    height: 142.73px;
+    padding-top: 249px;
+    padding-left: 140px;
+}
+
+.logo_word{
+    position: absolute;
+    width: 511.44px;
+    height: 142.73px;
+    left: 140px;
+    top: 249px;
+}
+
+.content{
+    position: absolute;
+    width: 869.66px;
+    height: 120.236px;
+    left: 868px;
+    top: 281px;
+}
+
+.nav{
+    position: absolute;
+    width: 230.712px;
+    height: 927.092px;
+    left: 160px;
+    top: 675px;
+}
+
+.center_box{
+    position: absolute;
+    width: 1230px;
+    height: 1895px;
+}
+
+.chicken{
+    position: absolute;
+    width: 565px;
+    height: 565px;
+    left: 509px;
+    top: 630px;
+}
+
+.fish{
+    position: absolute;
+    width: 565px;
+    height: 565px;
+    left: 1174px;
+    top: 630px;
+}
+
+.steak{
+    position: absolute;
+    width: 565px;
+    height: 565px;
+    left: 509px;
+    top: 1295px;
+}
+
+.pork{
+    position: absolute;
+    width: 565px;
+    height: 565px;
+    left: 1173px;
+    top: 1295px;
+}
+
+.pork_chops{
+    position: absolute;
+    width: 565px;
+    height: 565px;
+    left: 509px;
+    top: 1960px;
+}
+
+.sliced_meat{
+    position: absolute;
+    width: 565px;
+    height: 565px;
+    left: 1174px;
+    top: 1960px;
+}
+
+.next{
+    position: absolute;
+    width: 187.54px;
+    height: 28.721 px;
+    left: 1500px;
+    top: 2600px;
+}
+
+.footer{
+    position: absolute;
+    width: 1920px;
+    height: 452.7px;
+    top: 3070px;
+}
